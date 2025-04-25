@@ -10,4 +10,4 @@
 Убедитесь, что у вас установлен Python 3. Затем установите зависимость:
 
 ```bash
-pip install moviepy
+pip install moviepy==1.0.3
